@@ -1,0 +1,86 @@
+.banner {
+    background-image: url(https://images.unsplash.com/photo-1535850836387-0f9dfce30846?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=913&q=80);
+    background-size: cover;
+    color: white;
+    padding: 200px 0;
+}
+
+.container {
+  width: 700px;
+  margin: 50px auto;
+  text-align: justify;
+}
+
+.banner h1 {
+    font-size: 38px;
+}
+
+.banner p {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    opacity: 0.7;
+    text-align: center;
+    color: #121001;
+}
+
+.body {
+    color: #979797;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: lighter;
+    font-family: 'Lora', serif;
+}
+
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+    color: #eb7070;
+
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: justify;
+    color: #979797;
+}
+
+.p {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.link-medium {
+    background-image: linear-gradient(to bottom, rgba(255, 241, 233, 1), rgba(255, 241, 233, 1));
+    color: #fb8691;
+    font-weight: lighter;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.link-medium:hover {
+    background-image: linear-gradient(to bottom, rgba(255, 213, 213, 1), rgba(255, 241, 233, 1));
+}
+
+a {
+    text-decoration: none;
+}
